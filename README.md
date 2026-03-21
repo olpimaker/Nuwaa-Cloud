@@ -1,5 +1,10 @@
 # Nuwaa
 # Nuwaa Cloud
+## 什么是机场（VPN Subscription Service）
+
+“机场”是指一种基于订阅链接提供多节点代理服务的系统，支持 Shadowsocks/V2Ray/Xray 等协议。用户可以通过订阅导入客户端进行连接，实现海外网络访问。
+
+---
 
 Nuwaa Cloud 提供稳定的网络连接体验和订阅信息展示服务。
 
